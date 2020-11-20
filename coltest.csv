@@ -1,0 +1,92 @@
+,15102,251854,19682,247827,3757,310733,67392,193681,16411,179621
+index,102.0,354.0,182.0,327.0,257.0,233.0,392.0,181.0,411.0,121.0
+unittypeitemid,Flat,,Flat,,Flat,,,,Flat,
+units,14.0,1.0,7.0,1.0,11.0,1.0,,1.0,4.0,1.0
+interior_area,438,,890,,876,,,,966,
+beds,S ,2.0,1,3.0,2,4.0,2,3.0,2,2.0
+baths,1,1.0,1,3.0,2,3.0,3.0,2.0,1.5,2.0
+major,949770,375060,198020,363900,952810,512631,679180,291920,414010,276760
+minor,0010,6423,0255,0165,2740,0180,0020,0335,0150,2935
+nbrbldgs,1,,1,,1,,,,1,
+stories,6,1,4,1,7,2,2,1,2,3
+nbrunits,157,,39,,106,,,,4,
+avgunitsize,709,,797,,576,,,,966,
+projectlocation,AVERAGE,,AVERAGE,,ABOVE AVERAGE,,AVERAGE,,AVERAGE,
+projectappeal,AVERAGE,,ABOVE AVERAGE,,ABOVE AVERAGE,,AVERAGE,,AVERAGE,
+pcntwithview,10,,0,,0,,,,0,
+constrclass,WOOD FRAME,,WOOD FRAME,,WOOD FRAME,,WOOD FRAME,,WOOD FRAME,
+bldgquality,AVERAGEGOOD,,GOOD,,GOOD,,AVERAGE,,AVERAGE,
+condition,Average,Good,Average,Average,Average,Average,Good,Average,Average,Average
+elevators,Y,,Y,,Y,,N,,N,
+sectysystem,Y,,Y,,Y,,N,,N,
+fireplace,N,,N,, ,,Y,,Y,
+laundry,PRIVATE,,COMMON,,PRIVATE,,PRIVATE,,PRIVATE,
+addrline,95 ENTERPRISE #200,38218 49TH AVE S,19528 VENTURA BL STE #573,17009 4TH AVE S,3929 NE BELVOIR PL,211 PASCO DR NE,1572 NE 177TH ST #A-2,149 NW 83RD ST,4908 S THISTLE ST #A,2212 D 60TH ST
+citystate,ALISO VIEJO CA,AUBURN  WA,TARZANA CA,BURIEN WA,SEATTLE  WA,RENTON WA,SHORELINE WA,SEATTLE  WA,SEATTLE  WA,SEATTLE  WA
+rpzip,92656,98002     ,91356,98148     ,98105     ,98059,98155,98117     ,98118,98107
+taxvalreason,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+apprlandval,1579200,96000,337500,183000,5129600,246000,,348000,266800,224000
+apprimpsval,1373400,164000,14739500,228000,1273464,445000,,251000,780200,493000
+proptype,C,R,C,R,C,R,K,R,C,R
+districtname,SEATTLE,KING COUNTY,SEATTLE,BURIEN,SEATTLE,RENTON,SHORELINE,SEATTLE,KENMORE,SEATTLE
+currentzoning,NC3P-75 (M),R4,NC2P-55 (M),RS-7200,NC3P-75 (M),R-4,R24,SF 5000,R6,LR2 (M)
+presentuse,ApartmentMixed Use,Single FamilyRes UseZone,ApartmentMixed Use,Single FamilyRes UseZone,Apartment,Single FamilyRes UseZone,CondominiumResidential,Single FamilyRes UseZone,4Plex,Townhouse Plat
+sqftlot,4512,28800,4500,9360,14656,12629,20000,3840,11600,1016
+watersystem,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT,WATER DISTRICT
+sewersystem,PUBLIC,PRIVATE,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC
+access,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC,PUBLIC
+topography,0,0,0,0,0,0,0,0,0,0
+streetsurface,0,PAVED,PAVED,PAVED,PAVED,PAVED,PAVED,PAVED,PAVED,PAVED
+inadequateparking,2,2,2,2,2,0,2,2,2,0
+mtrainier,0,0,0,0,0,0,0,0,0,0
+olympics,0,0,0,0,0,0,0,0,0,0
+cascades,0,0,0,0,0,0,0,0,0,0
+territorial,0,0,0,0,0,0,0,0,0,0
+seattleskyline,0,0,0,0,0,0,0,0,0,0
+pugetsound,0,0,0,0,0,0,0,0,0,0
+lakewashington,0,0,0,0,0,0,0,0,0,0
+lakesammamish,0,0,0,0,0,0,0,0,0,0
+smalllakerivercreek,0,0,0,0,0,0,0,0,0,0
+otherview,0,0,0,0,0,0,0,0,0,0
+wfntlocation,0,0,0,0,0,0,0,0,0,0
+wfntfootage,0,0,0,0,0,0,0,0,0,0
+trafficnoise,0,0,0,0,0,0,0,0,0,0
+powerlines,N,N,N,N,N,N,N,N,N,N
+othernuisances,N,N,N,N,N,N,N,N,N,Y
+adjacentgolffairway,N,N,N,N,N,N,N,N,N,N
+adjacentgreenbelt,N,N,N,N,N,Y,N,N,N,N
+apt,1.0,,1.0,,1.0,,,,1.0,
+hu,314.0,1.0,39.0,1.0,212.0,1.0,11.0,1.0,4.0,1.0
+landperunit,14.369426751592357,28800.0,115.38461538461539,9360.0,69.13207547169812,12629.0,1818.1818181818182,3840.0,2900.0,1016.0
+landvalunit,5029.299363057325,96000.0,8653.846153846154,183000.0,24196.22641509434,246000.0,88700.0,348000.0,66700.0,224000.0
+impsvalunit,4373.885350318471,164000.0,377935.89743589744,228000.0,6006.905660377359,445000.0,311300.0,251000.0,195050.0,493000.0
+age,3,88,6,60,2,13,34,101,43,3
+effage,3,88,6,60,2,13,34,40,24,3
+bldgnbr,,1,,1,,1,,1,,1
+bldggrade,,6  Low Average,,7  Average,,8  Good,,7  Average,,8  Good
+bldggradevar,,0,,0,,0,,0,,0
+sqfttotliving,,1070,,1850,,2830,,1160,,1100
+sqftgaragebasement,,0,,350,,0,,0,,0
+sqftgarageattached,,0,,0,,650,,0,,0
+sqftfinbasement,,0,,500,,0,,0,,0
+heatsystem,,5,,5,,5,,5,,7
+heatsource,,1,,1,,2,,2,,3
+brickstone,,0,,0,,0,,0,,0
+res,,1.0,,1.0,,1.0,,1.0,,1.0
+unittype,,,,,,,Townhouse,,,
+unitquality,,,,,,,Average,,,
+footage,,,,,,,1500,,,
+complextype,,,,,,,CondoResidential,,,
+aptconversion,,,,,,,N,,,
+condo,,,,,,,1.0,,,
+accytype,,,,,,,,,,
+accydescr,,,,,,,,,,
+quantity,,,,,,,,,,
+size,,,,,,,,,,
+unit,,,,,,,,,,
+grade,,,,,,,,,,
+effyr,,,,,,,,,,
+pcntnetcondition,,,,,,,,,,
+accyvalue,,,,,,,,,,
+datevalued,,,,,,,,,,
+mh,,,,,,,,,,
