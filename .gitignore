@@ -1,9 +1,7 @@
-uses_condo.csv
 nnsplits
 rf19
 rf20
 rfrv
-texter.py
 202010_VRDB_Extract.txt
 vrdb.txt
 turnout_delta.geojson
@@ -31,6 +29,7 @@ y_rf19.csv
 y_rf20.csv
 y_rfrv.csv
 y_rfrv.cv
+y_nnrv.csv
 d2.png
 d4.png
 apt_complex.csv
@@ -42,9 +41,42 @@ KC_Assessor_Change_History.ipynb
 usevaluecounts
 byuse.csv
 d4.csv
-c/
-carto/
-cc/
-nnreg19/
-nnreg20/
-nnregrv/
+uses_condo.csv
+lookup.csv
+Housing Turnout.qgz
+modeling_keras.ipynb
+historical analysis
+cpins.csv
+lookup_d.csv
+egal.csv
+cats.py
+categories.py
+coltest.csv
+home.csv
+queries.py
+condo_full.csv
+usevaluecounts.csv
+Query Results.csv
+modeling_functions.py
+Untitled.ipynb
+housing-election-eda.ipynb
+precinct_turnout.sql
+turnout_summary.csv
+con.py
+turnout.csv
+eplots.py
+condos.sql
+texter.py
+apts.sql
+res_bldg.sql
+oddyears.code-workspace
+parcel_precincts.sql
+smstest.py
+clustering.ipynb
+__pycache__
+c
+carto
+cc
+nnreg19
+nnreg20
+nnregrv
