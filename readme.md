@@ -13,4 +13,4 @@ Elliott Day, November 2020
   
 [Evaluation](https://github.com/LLTTDAY/odd/blob/main/modeling_evaluation.ipynb) - Quantifying prediction accuracy at different scales and types of aggregation  
   
-Slides
+[Slides](https://github.com/LLTTDAY/odd/blob/main/presentation.pdf)
